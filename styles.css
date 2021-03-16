@@ -1,0 +1,18 @@
+body {
+  margin: 25px;
+  background-color: rgb(220,220,220);
+  font-family: arial, sans-serif;
+  font-size: 20px;
+}
+
+/* Applies to all <h1>...</h1> elements. */
+h1 {
+  font-size: 35px;
+  font-weight: normal;
+  margin-top: 5px;
+}
+
+/* Applies to the element with <... id="submitButton"> specified. */
+#submitButton { color: green; font-size: 20px; }
+
+#numberInput {font-size: 20px; }
